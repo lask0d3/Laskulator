@@ -1,0 +1,3 @@
+# Laskulator 
+
+A simple calculator
